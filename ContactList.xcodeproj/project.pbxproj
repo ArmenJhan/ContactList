@@ -63,7 +63,7 @@
 			isa = PBXGroup;
 			children = (
 				C0996EDB28FFE12E00672377 /* App */,
-				C0996EDE28FFE1B600672377 /* Model */,
+				C0996EDE28FFE1B600672377 /* Models */,
 				C0996EDC28FFE16800672377 /* ViewControllers */,
 				C0996EE028FFE1EB00672377 /* Servises */,
 				C0996EDD28FFE18B00672377 /* Storyboards */,
@@ -100,12 +100,12 @@
 			path = Storyboards;
 			sourceTree = "<group>";
 		};
-		C0996EDE28FFE1B600672377 /* Model */ = {
+		C0996EDE28FFE1B600672377 /* Models */ = {
 			isa = PBXGroup;
 			children = (
 				C0996EE529001A4C00672377 /* Person.swift */,
 			);
-			path = Model;
+			path = Models;
 			sourceTree = "<group>";
 		};
 		C0996EE028FFE1EB00672377 /* Servises */ = {

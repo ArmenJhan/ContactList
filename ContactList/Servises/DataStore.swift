@@ -15,7 +15,8 @@ class DataStore {
         "Sam",
         "Elmer",
         "Speedy"
-    ]
+    ].shuffled()
+    
     let surnames = [
         "Bunny",
         "Pig",
@@ -25,7 +26,8 @@ class DataStore {
         "Yosemite",
         "Fudd",
         "Gonzales"
-    ]
+    ].shuffled()
+    
     let phoneNumbers = [
         "11-11-11",
         "11-22-33",
@@ -35,7 +37,8 @@ class DataStore {
         "55-31-42",
         "42-12-33",
         "44-11-25"
-    ]
+    ].shuffled()
+    
     let emails = [
         "bunny@mail.ru",
         "pig@mail.ru",
@@ -45,5 +48,5 @@ class DataStore {
         "yosemite@mail.ru",
         "fudd@mail.ru",
         "gonzales@mail.ru"
-    ]
+    ].shuffled()
 }

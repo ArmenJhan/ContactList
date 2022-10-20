@@ -18,6 +18,7 @@ class ContactDetailsViewController: UIViewController {
         super.viewDidLoad()
         phoneNumberLabel.text = contact.phoneNumber
         emailLabel.text = contact.email
+        title = contact.fullname
     }
     
 
